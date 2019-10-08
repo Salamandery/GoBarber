@@ -1,4 +1,4 @@
-## MEETUP API
+## GoBarber API
 
 ### Funcionalidades
 - Rotas
